@@ -17,7 +17,7 @@ Access [localhost:9001](localhost:9001) with the credentials setted at `docker-c
 in the bucket load the sample file in this repo "iris.parq"   
 
 ## Access trino UI
-You can optionally access Trino UI at [localhost:8080](localhost:8080) to monitor the statements and executions.
+You can optionally access Trino UI at [localhost:8080](localhost:8080) to monitor the statements and executions, use any username that your heart whispers.
 
 ## Access trino client
 Run the following command to access the trino client
